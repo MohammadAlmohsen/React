@@ -1,0 +1,18 @@
+1 . create a simple js element
+2. create a complex js element
+3. add comment in jsx
+4. render html element to the DOM
+5. define an html class in jsx
+6. learn About self-closing jsx tags
+7. create a stateless functonal component
+8. create a react component
+9. create a co,ponent with composition
+10. use react to render nested components
+11. compos react components
+12. render a class component to the DOM
+13. write a react component from scratch
+14. pass props to a atateless functional component
+15. pass an array as props
+16. use default props
+17. override default props
+18. use proptype to define the props you expert
