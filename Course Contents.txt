@@ -15,4 +15,12 @@
 15. pass an array as props
 16. use default props
 17. override default props
-18. use proptype to define the props you expert
+18. use proptype to define the props you expect
+19. access props using this.props
+20. privew using props with stateless functional components
+21. create a stateful component 
+22. render state in the user interface
+23. render state in the user interface Another way
+24. set state with this.setState
+25. Bind "this" to a Class Method
+26. use state to toggle an element
