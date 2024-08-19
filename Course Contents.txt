@@ -24,3 +24,7 @@
 24. set state with this.setState
 25. Bind "this" to a Class Method
 26. use state to toggle an element
+27. write a simple counter
+28. create controlled Input
+29. create a controlled form
+30. 
