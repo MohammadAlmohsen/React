@@ -27,4 +27,11 @@
 27. write a simple counter
 28. create controlled Input
 29. create a controlled form
-30. 
+30. pass state as props to child component 
+31. pass calback as props
+32. use the lifecycle method componentwillmount
+33. use the lifecycle method componentDidMount
+34. add Event listener
+35. optimize re-renders with shouldcomponentupdate
+36.introducing inline styles
+37.add inline styles in react
