@@ -35,3 +35,8 @@
 35. optimize re-renders with shouldcomponentupdate
 36.introducing inline styles
 37.add inline styles in react
+38.use advanced javascript in react render method
+39.render with an if-else condition
+40.use && for a more concises condition
+41.use a tenary expression for condition rendering
+42. render conditionally from props
