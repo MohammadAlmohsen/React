@@ -40,3 +40,6 @@
 40.use && for a more concises condition
 41.use a tenary expression for condition rendering
 42. render conditionally from props
+43.change inline css conditionally based on component state
+44. use array.map to Dynamically render elements
+45. Give Sibling Elements a Unique Key Attribute
