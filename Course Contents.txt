@@ -43,3 +43,5 @@
 43.change inline css conditionally based on component state
 44. use array.map to Dynamically render elements
 45. Give Sibling Elements a Unique Key Attribute
+46.use Array.filter() to Dynamically filter an Array
+47.render react on the server with rengerToString
